@@ -4,7 +4,6 @@ This project presents a dashboard created completely using Tableau, which visual
 **Data Source**: The dashboard uses data from: https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv.​ `Final-Dashboard-v1.pdf` is an export of the completed Tableau dashboard.
 
 ### Features
-- Created and visualized 100% in Tableau
 - Summary of total flights, cancellation rates, delays, and diversions
 - U.S. route map showing busiest flight connections
 - Visual breakdown of cancellation reasons and monthly trends
