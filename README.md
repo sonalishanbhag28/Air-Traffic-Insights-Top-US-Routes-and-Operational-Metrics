@@ -1,7 +1,7 @@
 # Air Traffic Insights Dashboard
 This project presents a dashboard created completely using Tableau, which visualizes key flight statistics, cancellation trends, major flight routes, and operational performance for U.S. air traffic.
 
-**Data Source**: The dashboard uses data from: https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv.​ `Final-Dashboard-v1.pdf` is an export of the completed Tableau dashboard.
+**Data Source**: The dashboard uses data from: https://www.kaggle.com/datasets/usdot/flight-delays?select=flights.csv.​ `Dashboard Preview.pdf` is an export of the completed Tableau dashboard.
 
 ### Features
 - Summary of total flights, cancellation rates, delays, and diversions
